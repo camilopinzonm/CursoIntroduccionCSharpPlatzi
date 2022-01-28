@@ -9,7 +9,7 @@ namespace CursoIntroduccionCSharp
             Console.WriteLine("Hello Platzi!");
 
             int height = 175;
-            int age = 38;
+            int age = 38 ;
             string name = "Camilo Pinzon";
             string information = "the requested info is: \n User name " + name + "\n user age "
                 + age + " \n user height " + height;
